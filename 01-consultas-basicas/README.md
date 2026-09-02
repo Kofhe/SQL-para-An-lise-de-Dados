@@ -62,10 +62,6 @@ FROM atendimentos;
 
 O `*` significa que queremos retornar **todas as colunas**.
 
-### 📸 Resultado
-
-![Resultado do Desafio 01](./imagens/desafio-01-select.png)
-
 ---
 
 ## 🔢 Desafio 02 — Quantidade de atendimentos
@@ -206,10 +202,6 @@ faz com que os atendimentos sejam separados por unidade.
 
 **`AS`** → permite criar nomes mais claros para as colunas do resultado.
 
-### 📸 Resultado
-
-![Atendimentos por unidade](./imagens/desafio-05-group-by.png)
-
 ---
 
 # 📚 O que aprendi?
@@ -248,12 +240,6 @@ Também comecei a perceber como uma pergunta de negócio pode ser transformada e
 🟢 **Concluído**
 
 </div>
-
----
-
-## 📂 Arquivo da etapa
-
-💻 **[Acessar os desafios em SQL](./desafios-01.sql)**
 
 ---
 
