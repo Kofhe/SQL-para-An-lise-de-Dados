@@ -1,4 +1,4 @@
-# 🔎 Etapa 02 — Filtros e Ordenação
+# 🔎 Etapa 02 — Filtros
 
 > 🧠 **Avançando nos estudos de SQL: filtrando e encontrando informações específicas em uma base de dados hospitalar.**
 
