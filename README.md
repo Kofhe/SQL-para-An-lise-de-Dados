@@ -26,12 +26,12 @@ Os exercícios são desenvolvidos utilizando uma **base de dados hospitalar fict
 | 📚 Etapa | 📌 Conteúdo                  |     🚦 Status    |
 | :------: | :--------------------------- | :--------------: |
 |  **01**  | 🔎 Consultas Básicas         | 🟢 **Concluído** |
-|  **02**  | 🎯 Filtros e Ordenação       |   ⚪ **Próximo**  |
-|  **03**  | 📊 Agregações e Agrupamentos |         ⚪        |
-|  **04**  | 🔗 JOINs                     |         ⚪        |
-|  **05**  | 🧩 Subconsultas              |         ⚪        |
-|  **06**  | 🚀 Desafios de Análise       |         ⚪        |
-|  **07**  | 💼 Projeto Final             |         ⚪        |
+|  **02**  | 🎯 Filtros e Ordenação       | 🟢 **Concluído** |
+|  **03**  | 📊 Agregações e Agrupamentos | 🟢 **Concluído** |
+|  **04**  | 🔗 JOINs                     |  ⚪ **Próximo**  |
+|  **05**  | 🧩 Subconsultas              |        ⚪        |
+|  **06**  | 🚀 Desafios de Análise       |        ⚪        |
+|  **07**  | 💼 Projeto Final             |        ⚪        |
 
 ---
 
